@@ -40,6 +40,6 @@ This Python script is a powerful tool designed to extract tiles from Whole Slide
 
 This notebook is a valuable asset for digital pathology professionals and researchers looking to extract and work with specific regions of interest within Whole Slide Images.
 
-# **License**
+**License**
 
 This Notebook has been released under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) open-source license.
