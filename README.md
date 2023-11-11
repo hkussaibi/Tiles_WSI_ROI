@@ -1,4 +1,4 @@
-**Title: Automated Tile Extraction from WSIs within ROI Annotated with QuPath Using Python**
+**Automated Tile Extraction from WSIs within ROI Annotated with QuPath Using Python**
 
 **Description:**
 
