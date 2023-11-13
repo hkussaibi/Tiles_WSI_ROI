@@ -1,10 +1,10 @@
-**Automated Tile Extraction from WSIs within ROI Annotated with QuPath Using Python**
+# **Automated Tile Extraction from WSIs within ROI Annotated with QuPath Using Python**
 
 **Description:**
 
 This Python script is a powerful tool designed to extract tiles from Whole Slide Images (WSIs) specifically within Regions of Interest (ROIs) annotated using the popular digital pathology software QuPath. It leverages the capabilities of the OpenSlide library to work with WSIs and the Shapely library to process geometrical data.
 
-**Key Features:**
+## **Key Features:**
 
 1. **WSI Compatibility:** This tool is compatible with Whole Slide Images (WSIs) in various formats, such as SVS.
 
@@ -16,7 +16,7 @@ This Python script is a powerful tool designed to extract tiles from Whole Slide
 
 5. **Output Management:** Extracted tiles are saved in an output directory with user-defined names for further analysis or visualization.
 
-**Use Cases:**
+## **Use Cases:**
 
 - **Digital Pathology Research:** Ideal for researchers and pathologists working with digital pathology data to extract and analyze specific tissue regions.
 
@@ -24,7 +24,7 @@ This Python script is a powerful tool designed to extract tiles from Whole Slide
 
 - **Automation:** Offers an automated solution for tile extraction, streamlining the process and reducing manual effort.
 
-**How to Use:**
+## **How to Use:**
 
 1. Ensure you have the required Python libraries installed, such as OpenSlide and Shapely.
 
@@ -37,9 +37,6 @@ This Python script is a powerful tool designed to extract tiles from Whole Slide
 5. Extracted tiles will be saved in the specified output directory.
 
 ---
-
-This notebook is a valuable asset for digital pathology professionals and researchers looking to extract and work with specific regions of interest within Whole Slide Images.
-
 **License**
 
 This Notebook has been released under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) open-source license.
